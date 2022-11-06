@@ -54,3 +54,8 @@ li {
   line-height: 1;
   list-style: none;
 }
+.footer {
+  font-size: 12px;
+  text-align: right;
+  line-height: 1;
+}
